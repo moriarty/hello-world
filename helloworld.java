@@ -1,7 +1,6 @@
-/** Hello Wolrd in Java */
+/** Hello World in Java */
 class HelloWorld{
     public static void main(String[] args){
-        System.out.print("Hello World!\n");
-        System.exit(0);
+        System.out.println("Hello World!");
     }
 }
